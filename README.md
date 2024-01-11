@@ -29,9 +29,9 @@ I enjoy learning about science and technology, especially about mathematical pri
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)<br/>
-<br/>![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) 
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)<br/>
 
 
 # 📊 GitHub Stats:
