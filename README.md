@@ -1,18 +1,19 @@
 ![I am GitHub Readme Generator's creator](https://github.com/anarodme/anarodme/blob/main/me-icon.gif)
 
 ## 💫About me:
-¡Hola! Soy Ana, estudiante avanzada de Ingeniería en Tecnologías de Información. Poseo conocimientos en programación utilizando lenguajes como Java, C# y Python, así como bases en redes, gestión de bases de datos SQL y NoSQL, desarrollo web y seguridad informática. Me considero una persona proactiva con facilidad de adaptación al cambio, capacidad y facilidad para el trabajo en equipo y con muchas ganas de aprender.
+Hello! I'm Ana, an advanced student in Information Technology Engineering. I have programming knowledge using languages such as Java, C#, and Python, as well as a foundation in networks, SQL and NoSQL database management, web development, and cybersecurity. I consider myself a proactive individual with ease in adapting to change, the ability to work well in teams, and a strong desire to learn.
 
-HTML5 / CSS3 / Jquery / Bootstrap / JavaScript
-PHP
-Redes WAN y LAN
-React, Node.js
-Postman
-Git / GitLab
-Lenguajes de programación: Java, .NET, C#, Python.
-Bases de datos: SQL Server, MySQL, MongoDB, PostgreSQL, Oracle.
-Sistemas: Linux, Windows
-Codificación, solución de problemas, creatividad, responsabilidad, trabajo en equipo, habilidades de comunicación, compromiso, gestión del tiempo.
+My expertise includes:
+- HTML5 / CSS3 / Jquery / Bootstrap / JavaScript
+- PHP
+- WAN and LAN Networks
+- React, Node.js
+- Postman
+- Git / GitLab
+- Programming languages: Java, .NET, C#, Python
+- Databases: SQL Server, MySQL, MongoDB, PostgreSQL, Oracle
+- Operating Systems: Linux, Windows
+- Coding, problem-solving, creativity, responsibility, teamwork, communication skills, commitment, time management.
 
 ## ⚡ Fun fact:
 I enjoy learning about science and technology, especially about mathematical principles underlying programming logic.
