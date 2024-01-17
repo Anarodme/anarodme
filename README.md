@@ -1,4 +1,3 @@
-![I am GitHub Readme Generator's creator](https://github.com/anarodme/anarodme/blob/main/icon-ana.png)
 
 ## 💫About me:
 Hello! I'm Ana, an advanced student in Information Technology Engineering. I have programming knowledge using languages such as Java, C#, and Python, as well as a foundation in networks, SQL and NoSQL database management, web development, and cybersecurity. I consider myself a proactive individual with ease in adapting to change, the ability to work well in teams, and a strong desire to learn.
