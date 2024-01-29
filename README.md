@@ -1,18 +1,22 @@
 
 ## 💫About me:
-Hello! I'm Ana, an advanced student in Information Technology Engineering. I have programming knowledge using languages such as Java, C#, and Python, as well as a foundation in networks, SQL and NoSQL database management, web development, and cybersecurity. I consider myself a proactive individual with ease in adapting to change, the ability to work well in teams, and a strong desire to learn.
+Hello, I’m Ana! :) 
 
-My expertise includes:
-- HTML5 / CSS3 / Jquery / Bootstrap / JavaScript
-- PHP
-- WAN and LAN Networks
-- React, Node.js
-- Postman
-- Git / GitLab
-- Programming languages: Java, .NET, C#, Python
-- Databases: SQL Server, MySQL, MongoDB, PostgreSQL, Oracle
-- Operating Systems: Linux, Windows
-- Coding, problem-solving, creativity, responsibility, teamwork, communication skills, commitment, time management.
+I am a passionate and creative student with great interest in web development, focused on Front-end and Backend. 👩🏻‍💻 
+
+Throughout my university career I have been able to use technologies such as: 
+◽HTML, CSS, Bootstrap, jQuery, JavaScript, TypeScript, React. 
+And Frameworks such as:
+◽Flask, Django, ASP.NET.
+
+However, I also have extensive knowledge in programming, networking, relational and non-relational databases, information security, data science, agile methodologies, source/version control repository hosting services, API REST and a bit in Generative AI. ✨
+
+In my experience I have been able to put into practice my soft skills, such as:
+✅Teamwork, communication, adapting to change and problem solving.
+
+I am constantly learning better ways to solve problems in different scenarios and improving my skills in this industry, my goal is to gain experience and grow professionally. 🪄
+
+If you looking for a talented and passionate Student who can bring your ideas to life, feel free to contact me. 
 
 ## ⚡ Fun fact:
 I enjoy learning about science and technology, especially about mathematical principles underlying programming logic.
