@@ -2,7 +2,7 @@
 ## 💫About me:
 Hello, I’m Ana! :) 
 
-I am a passionate and creative student with great interest in web development, focused on Front-end and Backend. 👩🏻‍💻 
+I am a passionate and creative professional with great interest in web development, focused on Front-end and Backend. 👩🏻‍💻 
 
 Throughout my university career I have been able to use technologies such as: 
 ◽HTML, CSS, Bootstrap, jQuery, JavaScript, TypeScript, React. 
